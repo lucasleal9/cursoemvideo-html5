@@ -1,2 +1,1 @@
-# site-html5-2013
- Material do Curso de HTML5 e CSS3 do Curso em Vídeo
+# projeto-glass-html5-2013
